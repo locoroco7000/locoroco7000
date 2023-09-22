@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @locoroco7000
+- 👀 I’m interested in computer science, programming, machine learning, AI, game development, 3d modelling, and cryptography.
+- 🌱 I’m currently learning all of those.
+- 📫 How to reach me ...
+- Discord: @locoroco7000
